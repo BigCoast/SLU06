@@ -1,2 +1,4 @@
-Red\nWhite\nGreen
+Red
+White
+Green
 Moscatel
